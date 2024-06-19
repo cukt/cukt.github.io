@@ -1,11 +1,11 @@
-title: Sun Changsheng「孙常晟」
+title: Zhang San「张三」
 # title: Sun Changsheng
-name: "Sun Changsheng"
-author: SUN Changsheng
-twitter_username: changsheng_sun
+name: "Zhang San"
+author: Zhang San
+twitter_username: san_zhang
 baseurl: ""
 description: Document my learning notes.
-profile_url: "https://sunchangsheng.com"
+profile_url: "https://zhangsan.com"
 
 # Build settings
 markdown: kramdown
